@@ -1,7 +1,7 @@
 HTMLTemplate
 ============
 
-HTMLTemplate it's a Sublime Text 2 plugin. It writes the structure of a html5 document:
+HTMLTemplate it's a Sublime Text 2 plugin. It writes the basic structure of a html5 document for you:
 
 ```
 <!DOCTYPE html>
@@ -34,7 +34,7 @@ HTMLTemplate it's a Sublime Text 2 plugin. It writes the structure of a html5 do
 
 ## Customize the template ##
 
-- You want the plugin to write your own template? Open the file %appdata%/Sublime Text 2/Packages/HTMLTemplate/plugin.py and paste your template to the 'template' var :D
+- Do you want the plugin to write your own template? Open the file %appdata%/Sublime Text 2/Packages/HTMLTemplate/plugin.py and paste your template to the 'template' var :D
 
 
 
