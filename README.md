@@ -34,7 +34,7 @@ HTMLTemplate it's a Sublime Text 2 plugin. It writes the basic structure of a ht
 
 ## Customize the template ##
 
-- Do you want the plugin to write your own template? Open the file %appdata%/Sublime Text 2/Packages/HTMLTemplate/plugin.py and paste your template to the 'template' var :D
+- Do you want the plugin to write your own template? Open the file %appdata%/Sublime Text 2/Packages/HTMLTemplate/preferences.json and paste your template to the 'template' var :D
 
 
 
