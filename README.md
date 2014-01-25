@@ -5,6 +5,7 @@ HTMLTemplate it's a Sublime Text 2 plugin. It writes the basic structure of a ht
 
 ```
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,8 +16,8 @@ HTMLTemplate it's a Sublime Text 2 plugin. It writes the basic structure of a ht
 		<link rel="stylesheet" type="text/css" href="">
 		<script type="text/javascript" src=""></script>
 	</head>
-		</body>
-
+		<body>
+			
 		</body>
 </html>
 ```
