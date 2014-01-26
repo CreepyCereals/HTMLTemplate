@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, json
+import sublime, sublime_plugin, json, os
 
 class HtmltemplateCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
