@@ -24,9 +24,7 @@ HTMLTemplate it's a Sublime Text 2 plugin. It writes the basic structure of a ht
 
 ## Installation ##
 
-- You can use [Package Control](https://github.com/wbond/sublime_package_control).
-
-- Or you can clone this repo and paste it in %appdata%/Sublime Text 2/Packages/HTMLTemplate (use the right path just in case you are not using Windows).
+- Clone this repo and place it in %appdata%/Sublime Text 2/Packages/HTMLTemplate (Windows path).
 
 
 ## Usage ##
